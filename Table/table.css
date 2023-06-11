@@ -1,0 +1,33 @@
+body
+{
+    background-color: aquamarine;
+ } 
+ h1
+ {
+border: 5px solid blue;
+border-radius: 20px;
+border-style: double;
+width: fit-content;
+ }
+ .table
+ {
+    border: 5px solid black;
+    border-radius: 20px;
+
+ }
+.head th
+{
+text-align: center;
+border: 5px solid red;
+border-radius: 15px;
+border-style: double;
+font-size: x-large;
+}
+.Data td
+{
+font-size: large;
+text-align: center;
+border: 5px solid blue;
+border-radius: 15px;
+border-style: double;
+}
